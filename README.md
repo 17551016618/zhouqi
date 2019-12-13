@@ -1,4 +1,0 @@
-# zhouqi
-index
-#adhdkak
-css
